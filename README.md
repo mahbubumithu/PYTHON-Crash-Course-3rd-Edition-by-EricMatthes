@@ -1,8 +1,8 @@
 # PYTHON-Crash-Course-3rd-Edition-by-EricMatthes
-
+---
 **Changing Case in String**
 ```python
-essage = "hello python Crash Course"
+message = "hello python Crash Course"
 print(message)
 
 print(message.title()) #It change to titile case
